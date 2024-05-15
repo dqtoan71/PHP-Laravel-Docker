@@ -1,0 +1,83 @@
+<?php
+
+return [
+    'Profile' => 'プロフィール',
+    'Log Out' => 'ログアウト',
+    'Dashboard' => 'ダッシュボード',
+    'Profile Information' => 'プロフィール情報',
+
+    'your_email' => 'メールで送信',
+    'Email' => 'Eメール',
+    'Username' => 'ユーザー名',
+    'Password' => 'パスワード',
+    'Save' => '保存',
+    'Your email address is unverified.' => 'あなたのメールアドレスは認証されていません。',
+    'Click here to re-send the verification email.' => 'ここをクリックして確認メールを再送信してください。',
+    'A new verification link has been sent to your email address.' => '新しい確認リンクがあなたの電子メール アドレスに送信されました。',
+
+    'Update Password' => 'パスワードを更新する',
+    'Current Password' => '現在のパスワード',
+    'New Password' => '新しいパスワード',
+    'Confirm Password' => 'パスワードを認証する',
+    'Update successful' => '更新に成功',
+    'Roles' => '役割',
+    'Roles Management' => '役割の管理',
+    'New Role' => '新しい役割',
+    'No' => 'いいえ',
+    'Name' => '名前',
+    'Action' => 'アクション',
+    'Edit' => '編集',
+    'Delete' => '消去',
+
+    'Permissions' => '権限',
+    'Create New Role' => '新しい役割の作成',
+    'Back To Role List' => '役割リストに戻る',
+    'Check All' => 'すべてチェック',
+    'Please select at least one option!' => '少なくとも 1 つのオプションを選択してください。',
+
+    'Edit Role' => '役割の編集',
+    'Role created successfully' => 'ロールが正常に作成されました',
+    'Role updated successfully' => '役割が正常に更新されました',
+
+    'Admins' => '管理者',
+    'Admin Management' => '管理者管理',
+    'Create New Account' => '新しいアカウントを作成する',
+    'Edit Account' => 'アカウントの編集',
+    'Back To Admin List' => '管理者リストに戻る',
+
+    'Users' => 'ユーザー',
+    'User Management' => 'ユーザー管理',
+    'Create New User' => '新しいユーザーの作成',
+    'Edit User' => 'ユーザーの編集',
+    'Back To User List' => 'ユーザーリストに戻る',
+
+    'Rolemanagement' => '役割の管理',
+    'Adminmanagement' => '管理者の管理',
+    'Usermanagement' => 'ユーザーを管理する',
+
+    'profile-edit' => 'アカウントの編集',
+    'profile-update' => 'アカウントを更新する',
+    'dashboard-index' => 'コントロールパネルを表示',
+    'dashboard-changelanguage' => '言語を変えてください',
+
+    'rolemanagement-index' => 'ロールのリストを表示します',
+    'rolemanagement-create' => '新規ロール作成画面',
+    'rolemanagement-store' => '新しい役割を保存する',
+    'rolemanagement-edit' => 'ロール編集画面',
+    'rolemanagement-destroy' => '役割の削除',
+    'rolemanagement-update' => '更新された役割を保存する',
+
+    'adminmanagement-index' => '管理者のリストを表示する',
+    'adminmanagement-create' => '新しい管理者の追加画面',
+    'adminmanagement-store' => '新しい保存管理者',
+    'adminmanagement-edit' => '管理者編集画面',
+    'adminmanagement-destroy' => '管理者の削除',
+    'adminmanagement-update' => '管理者の更新を保存する',
+
+    'usermanagement-index' => 'ユーザーのリストを表示する',
+    'usermanagement-create' => '新規ユーザー追加画面',
+    'usermanagement-store' => '新しいユーザーを保存する',
+    'usermanagement-edit' => 'ユーザー編集画面',
+    'usermanagement-destroy' => 'ユーザーの削除',
+    'usermanagement-update' => 'ユーザーの更新を保存する',
+];
